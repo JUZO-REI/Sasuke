@@ -1,1 +1,17 @@
-[{"id": 1,"title":"学习python","completed":false},{"id":2,"title":"学习java","completed":true},{"id":3,"title":"学习c++","completed":false}]
+[
+    {
+        "id": 1,
+        "title": "学习python",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "title": "学习java",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "title": "学习c++",
+        "completed": false
+    }
+]
